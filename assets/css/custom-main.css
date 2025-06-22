@@ -1,0 +1,24 @@
+
+.hover-link-main, .nav-link {
+    color: rgb(220, 224, 228);
+}
+
+.hover-link-main:hover {
+    background-color: #5994fc;
+    color: rgb(255, 255, 255);
+}
+
+.current {
+    background-color: rgb(254, 254, 254);
+    color: rgb(60, 60, 60);
+}
+
+.content {
+    margin-left: 255px;
+}
+
+@media (max-width: 768px) {
+    .content {
+        margin-left: 0px;
+    }
+}
