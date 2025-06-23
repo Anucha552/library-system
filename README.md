@@ -53,10 +53,10 @@ users (1) ⮕ transactions ⬅ (1) books
 4. ตรวจสอบการเชื่อมต่อฐานข้อมูลในไฟล์ `database.php`
 
 ## ข้อมูล Admin / User สำหรับทดสอบระบบ
-- Password Admin User: admin@gmail.com หริอ admin Pass: admin
-- Password Uaer1 User: user1@gmail.com หริอ user1 Pass: user1
-- Password Uaer2 User: user2@gmail.com หริอ user2 Pass: user2
-- Password Uaer3 User: user3@gmail.com หริอ user3 Pass: user3
+- Password Admin User: admin@gmail.com หรือ admin Pass: admin
+- Password Uaer1 User: user1@gmail.com หรือ user1 Pass: user1
+- Password Uaer2 User: user2@gmail.com หรือ user2 Pass: user2
+- Password Uaer3 User: user3@gmail.com หรือ user3 Pass: user3
 
 ## วิดีโอแนะนำผลงาน
 URL: https://www.youtube.com/watch?v=D7UOa0QS-co
