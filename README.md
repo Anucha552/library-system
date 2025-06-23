@@ -1,5 +1,5 @@
 
-### ระบบจัดการห้องสมุด Library Management System
+# ระบบจัดการห้องสมุด Library Management System
 ระบบ Library Management System เป็นระบบเว็บแอปพลิเคชันสำหรับจัดการห้องสมุดขนาดเล็ก พัฒนาโดยใช้ PHP และ MySQL พร้อมหน้าจอใช้งานแบบ Responsive ด้วย Bootstrap 5 เหมาะสำหรับใช้ในห้องสมุดของโรงเรียน และวิทยาลัย 
 
 ## ภาพรวมของระบบ
@@ -40,7 +40,7 @@ Mr. Anucha Khemthong
 - ตาราง `books` เอาไว้เก็บข้อมูลหนังสือ เช่น ชื่อเรื่อง, ผู้แต่ง, สำนักพิมพ์, และ ISBN
 - ตาราง `transactions` เป็นการบันทึกการยืม หรือคืนหนังสือของผู้ใช้งาน
 
-### ความสัมพันธ์ของตาราง
+## ความสัมพันธ์ของตาราง
 1. 1 ผู้ใช้ → ยืมได้หลายเล่ม
 2. 1 หนังสือ → ถูกยืมได้หลายครั้ง
 <br>ตัวอย่าง
@@ -52,11 +52,11 @@ users (1) ⮕ transactions ⬅ (1) books
 3. รอจนระบบนำเข้าข้อมูลเสร็จ จะมีตารางต่างๆ ปรากฏขึ้น
 4. ตรวจสอบการเชื่อมต่อฐานข้อมูลในไฟล์ `database.php`
 
-# ข้อมูล Admin / User สำหรับทดสอบระบบ
+## ข้อมูล Admin / User สำหรับทดสอบระบบ
 - Password Admin User: admin@gmail.com หริอ admin Pass: admin
 - Password Uaer1 User: user1@gmail.com หริอ user1 Pass: user1
 - Password Uaer2 User: user2@gmail.com หริอ user2 Pass: user2
 - Password Uaer3 User: user3@gmail.com หริอ user3 Pass: user3
 
 ## วิดีโอแนะนำผลงาน
-URL: 
+URL: https://www.youtube.com/watch?v=D7UOa0QS-co
